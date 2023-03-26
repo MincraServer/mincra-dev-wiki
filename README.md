@@ -1,2 +1,1 @@
-# mincra-dev-wiki
-MincraServerデベロッパー向けのWikiです.
+https://github.com/MincraServer/mincra-dev-wiki/wiki
